@@ -61,16 +61,24 @@ color: white;
 font-family: "Kenia", sans-serif;
 font-size: 30px;
 position: relative;
-top: -400px;
-right: -100px;
+top: -180px;
+right: 200px;
+background-color: #030220;
+padding: 20px;
+border-radius: 10px;
+display: inline-block;
 }
 #tour2{
 color: gray;
 font-family: "Kenia", sans-serif;
 font-size: 30px;
 position: relative;
-top: -1000px;
+top: -850px;
 right: -630px;
+background-color: #030220;
+padding: 20px;
+border-radius: 10px;
+display: inline-block;
 }
 #tourh1{
     font-family: "Kenia", sans-serif;
@@ -89,9 +97,52 @@ right: -630px;
     right: -450px;
 }
 #albumtour{
-    width: 250px;
-    height: 250px;
+    width: 300px;
+    height: 220px;
     position: relative;
-    top: -400px;
+    top: -770px;
     right: -850px;
+}
+#formquistion{
+    color: white;
+    font-family: "Kenia", sans-serif;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #030220;
+    display: inline-block;
+    position: relative;
+    top: -130px;
+}
+#contacth1{
+    color: white;
+    font-family: "Kenia", sans-serif;
+    font-size: 40px;
+}
+#contactdetails{
+    color: white;
+    position: relative;
+    top: -130px;
+}
+#formbooking{
+    color: white;
+    font-family: "Kenia", sans-serif;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #030220;
+    display: inline-block;
+    margin-left: 430px;
+    position: relative;
+    top: -76px;
+}
+#bookh1{
+    color: white;
+    font-family: "Kenia", sans-serif;
+    font-size: 40px;
+    position: relative;
+    top: -60px;
+    right: -715px;
 }
